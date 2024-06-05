@@ -8,7 +8,7 @@
 ## Steps to run Demo 2
 - Install `swagger-codegen`.
     - macOS: `brew install swagger-codegen`
-    - Windows/Linux: wget https://repo1.maven.org/maven2/io/swagger/codegen/v3/swagger-codegen-cli/3.0.57/swagger-codegen-cli-3.0.57.jar -O swagger-codegen-cli.jar
+    - Windows/Linux: `wget https://repo1.maven.org/maven2/io/swagger/codegen/v3/swagger-codegen-cli/3.0.57/swagger-codegen-cli-3.0.57.jar -O swagger-codegen-cli.jar`
     - *Please Note: Java 8 has to be installed before running*
 - Extract `api.yaml` file to separate directory.
 - In directory, run
